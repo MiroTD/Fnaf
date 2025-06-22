@@ -1,0 +1,14 @@
+"Withered Golden Freddy"
+Power: 20,
+Chance: 5,
+StayTime: 10,
+
+"Zombie Endo"
+Power: 5,
+Chance: 20,
+StayTime: 15,
+
+"Enraged Marionette"
+Power 10,
+Chance: 80,
+StayTime: 20,
