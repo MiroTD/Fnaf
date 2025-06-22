@@ -9,6 +9,6 @@ Chance: 20,
 StayTime: 15,
 
 "Enraged Marionette"
-Power 10,
+Power: 10,
 Chance: 80,
 StayTime: 20,
