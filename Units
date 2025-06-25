@@ -15,11 +15,11 @@ StayTime: 15,
 
 "Black Ice Freddy"
 Power: 100,
-Chance: 99,
+Chance: 1,
 StayTime: 10,
 
 "Astral Bonnie"
 Power: 500,
-Chance: 99,
+Chance: 0.5,
 StayTime: 10,
 
