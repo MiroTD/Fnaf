@@ -23,3 +23,13 @@ Power: 500,
 Chance: 0.5,
 StayTime: 10,
 
+"Coolkid"
+Power: 15,
+Chance: 55,
+StayTime: 10,
+
+"Mafioso"
+Power: 150,
+Chance: 0.9,
+StayTime: 10,
+
