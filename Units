@@ -24,12 +24,11 @@ Chance: 0.5,
 StayTime: 10,
 
 "Coolkid"
-Power: 15,
+Power: 20,
 Chance: 55,
 StayTime: 10,
 
 "Mafioso"
-Power: 150,
-Chance: 0.9,
+Power: 125,
+Chance: 0.8,
 StayTime: 10,
-
